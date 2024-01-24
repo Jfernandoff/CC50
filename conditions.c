@@ -14,7 +14,7 @@ int main(void)
     // Compare x and y
     if (x < y)
     {
-        printf("x is less than y\n);
+        printf("x is less than y\n");
     }
     else if (x > y)
     {
