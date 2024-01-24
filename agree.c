@@ -1,5 +1,5 @@
 #include <cs50.h>
-#include <stdio.H>
+#include <stdio.h>
 
 int main(void)
 {
@@ -10,6 +10,6 @@ int main(void)
     }
     else if (c == 'n')
     {
-        printf("Not agreed.")
+        printf("Not agreed.\n")
     }
 }
