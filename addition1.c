@@ -7,5 +7,5 @@ int main(void)
 
     long y = get_long("y: ");
 
-    printf("%i\n", x + y);
+    printf("%li\n", x + y);
 }
